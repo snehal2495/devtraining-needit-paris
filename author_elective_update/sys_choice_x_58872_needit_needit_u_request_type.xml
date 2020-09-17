@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_request_type</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>vichare.snehal24@gmail.com</sys_created_by>
+            <sys_created_on/>
+            <sys_id>41ecfba5db5f90100d9a47823996193c</sys_id>
+            <sys_mod_count/>
+            <sys_name>u_request_type</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+            <sys_updated_by>vichare.snehal24@gmail.com</sys_updated_by>
+            <sys_updated_on>2020-09-17 09:38:40</sys_updated_on>
+        </sys_choice_set>
+        <sys_update_version action="INSERT_OR_UPDATE">
+            <action>DELETE</action>
+            <application/>
+            <file_path/>
+            <instance_id>9846b33ddbc57f4442b321c4059619bc</instance_id>
+            <instance_name>dev83925</instance_name>
+            <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+            <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_request_type</element><name>x_58872_needit_needit</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-09-17 06:49:27</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+            <payload_hash>1673447142</payload_hash>
+            <record_name>NeedIt.Request type</record_name>
+            <reverted_from/>
+            <source>6d9ea7c0dbdf10100d9a47823996192a</source>
+            <source_table>sys_update_set</source_table>
+            <state>previous</state>
+            <sys_created_by>vichare.snehal24@gmail.com</sys_created_by>
+            <sys_created_on>2020-09-17 06:49:27</sys_created_on>
+            <sys_id>81ecfba5db5f90100d9a478239961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_recorded_at>1749ad337940000001</sys_recorded_at>
+            <sys_updated_by>vichare.snehal24@gmail.com</sys_updated_by>
+            <sys_updated_on>2020-09-17 06:49:27</sys_updated_on>
+            <type>Choice list</type>
+            <update_guid>0decfba52e5f90100a2429498f26f016</update_guid>
+            <update_guid_history>0decfba52e5f90100a2429498f26f016:1673447142,45ecfba5405f901011ad131d743cbf13:1429053012,41ecfba5555f9010e7244d1faae73b10:-1514400100,9a0b9ca5d8d390105493d17d7559f89c:0,b0d72fddf4139010947f6c0dbb9a44e1:0,80d7ebdd6d1390104c4a3c8df7c00cd4:1673447142,c8d7ebdd42139010879c0f0a35b88bd0:-1701966180,c4d7ebddd2139010967a9c91804f07cd:736548692,c0d7ebdd10139010542223581b473cca:833312879,4d5047cdd5d350102b4fbdee667e6b00:0,e050c3cd99d35010cf616e3ded53defa:1673447142,2c50c3cd3ed3501027ae8757aca6e9f6:-1701966180,2850c3cd94d35010f697032b323516f3:736548692,2450c3cd66d350101ce2c6e418c4cdf0:-1685267370,2050c3cd47d35010613c019e326e7eed:505521521,13d97a894fd3501087d0b781ab508e91:-239832341,187936890fd3501008b75ede73b666ca:-1468708133,66b09d89589f101056fa1748f36ccdfe:0,1db01d89f89f10103d39da8bf6faeeeb:1673447142,d1b01d892b9f10109816b4e9183b70e8:-103233526,ddb01d89759f1010e89a03b27a467de4:-854501905,d9b01d89339f1010bd766c66855fe1e1:-1866117987,d5b01d89799f1010bcc1b7d87a3e35de:1529774933,d1b01d89899f1010f94b444008e5f1db:260320262,9db01d899e9f1010afef61c50ad3edd7:-491498591,aa039c78ec131010ba5db5f9ff9c68d2:1649573361,d562d47854131010332a7e89d6b53c48:754858911</update_guid_history>
+        </sys_update_version>
+        <sys_metadata_delete action="INSERT_OR_UPDATE">
+            <sys_audit_delete/>
+            <sys_class_name>sys_metadata_delete</sys_class_name>
+            <sys_created_by>vichare.snehal24@gmail.com</sys_created_by>
+            <sys_created_on>2020-09-17 06:49:29</sys_created_on>
+            <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+            <sys_id>41ecfba5db5f90100d9a47823996193c</sys_id>
+            <sys_metadata>41ecfba5db5f90100d9a47823996193c</sys_metadata>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_request_type</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_parent/>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+            <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+            <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">81ecfba5db5f90100d9a478239961917</sys_update_version>
+            <sys_updated_by>vichare.snehal24@gmail.com</sys_updated_by>
+            <sys_updated_on>2020-09-17 06:49:29</sys_updated_on>
+        </sys_metadata_delete>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9846b33ddbc57f4442b321c4059619bc</instance_id>
+        <instance_name>dev83925</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3"&gt;&lt;sys_choice_set action="DELETE"&gt;&lt;element&gt;u_request_type&lt;/element&gt;&lt;name&gt;x_58872_needit_needit&lt;/name&gt;&lt;sys_class_name&gt;sys_choice_set&lt;/sys_class_name&gt;&lt;sys_created_by&gt;vichare.snehal24@gmail.com&lt;/sys_created_by&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;41ecfba5db5f90100d9a47823996193c&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_name&gt;u_request_type&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_choice_x_58872_needit_needit_u_request_type&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;vichare.snehal24@gmail.com&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-09-17 09:38:40&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;sys_update_version action="INSERT_OR_UPDATE"&gt;&lt;action&gt;DELETE&lt;/action&gt;&lt;application/&gt;&lt;file_path/&gt;&lt;instance_id&gt;9846b33ddbc57f4442b321c4059619bc&lt;/instance_id&gt;&lt;instance_name&gt;dev83925&lt;/instance_name&gt;&lt;name&gt;sys_choice_x_58872_needit_needit_u_request_type&lt;/name&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3"&gt;&lt;sys_choice_set action="DELETE"&gt;&lt;element&gt;u_request_type&lt;/element&gt;&lt;name&gt;x_58872_needit_needit&lt;/name&gt;&lt;sys_class_name&gt;sys_choice_set&lt;/sys_class_name&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_id/&gt;&lt;sys_mod_count/&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope/&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on&gt;2020-09-17 06:49:27&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;]]&gt;&lt;/payload&gt;&lt;payload_hash&gt;1673447142&lt;/payload_hash&gt;&lt;record_name&gt;NeedIt.Request type&lt;/record_name&gt;&lt;reverted_from/&gt;&lt;source&gt;6d9ea7c0dbdf10100d9a47823996192a&lt;/source&gt;&lt;source_table&gt;sys_update_set&lt;/source_table&gt;&lt;state&gt;previous&lt;/state&gt;&lt;sys_created_by&gt;vichare.snehal24@gmail.com&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-09-17 06:49:27&lt;/sys_created_on&gt;&lt;sys_id&gt;81ecfba5db5f90100d9a478239961917&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_recorded_at&gt;1749ad337940000001&lt;/sys_recorded_at&gt;&lt;sys_updated_by&gt;vichare.snehal24@gmail.com&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-09-17 06:49:27&lt;/sys_updated_on&gt;&lt;type&gt;Choice list&lt;/type&gt;&lt;update_guid&gt;0decfba52e5f90100a2429498f26f016&lt;/update_guid&gt;&lt;update_guid_history&gt;0decfba52e5f90100a2429498f26f016:1673447142,45ecfba5405f901011ad131d743cbf13:1429053012,41ecfba5555f9010e7244d1faae73b10:-1514400100,9a0b9ca5d8d390105493d17d7559f89c:0,b0d72fddf4139010947f6c0dbb9a44e1:0,80d7ebdd6d1390104c4a3c8df7c00cd4:1673447142,c8d7ebdd42139010879c0f0a35b88bd0:-1701966180,c4d7ebddd2139010967a9c91804f07cd:736548692,c0d7ebdd10139010542223581b473cca:833312879,4d5047cdd5d350102b4fbdee667e6b00:0,e050c3cd99d35010cf616e3ded53defa:1673447142,2c50c3cd3ed3501027ae8757aca6e9f6:-1701966180,2850c3cd94d35010f697032b323516f3:736548692,2450c3cd66d350101ce2c6e418c4cdf0:-1685267370,2050c3cd47d35010613c019e326e7eed:505521521,13d97a894fd3501087d0b781ab508e91:-239832341,187936890fd3501008b75ede73b666ca:-1468708133,66b09d89589f101056fa1748f36ccdfe:0,1db01d89f89f10103d39da8bf6faeeeb:1673447142,d1b01d892b9f10109816b4e9183b70e8:-103233526,ddb01d89759f1010e89a03b27a467de4:-854501905,d9b01d89339f1010bd766c66855fe1e1:-1866117987,d5b01d89799f1010bcc1b7d87a3e35de:1529774933,d1b01d89899f1010f94b444008e5f1db:260320262,9db01d899e9f1010afef61c50ad3edd7:-491498591,aa039c78ec131010ba5db5f9ff9c68d2:1649573361,d562d47854131010332a7e89d6b53c48:754858911&lt;/update_guid_history&gt;&lt;/sys_update_version&gt;&lt;sys_metadata_delete action="INSERT_OR_UPDATE"&gt;&lt;sys_audit_delete/&gt;&lt;sys_class_name&gt;sys_metadata_delete&lt;/sys_class_name&gt;&lt;sys_created_by&gt;vichare.snehal24@gmail.com&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-09-17 06:49:29&lt;/sys_created_on&gt;&lt;sys_db_object display_value="" name="sys_choice_set"&gt;sys_choice_set&lt;/sys_db_object&gt;&lt;sys_id&gt;41ecfba5db5f90100d9a47823996193c&lt;/sys_id&gt;&lt;sys_metadata&gt;41ecfba5db5f90100d9a47823996193c&lt;/sys_metadata&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_request_type&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_parent/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_scope_delete display_value=""&gt;94872a8897db403e8ee69a431de2fca4&lt;/sys_scope_delete&gt;&lt;sys_update_name&gt;sys_choice_x_58872_needit_needit_u_request_type&lt;/sys_update_name&gt;&lt;sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type"&gt;81ecfba5db5f90100d9a478239961917&lt;/sys_update_version&gt;&lt;sys_updated_by&gt;vichare.snehal24@gmail.com&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-09-17 06:49:29&lt;/sys_updated_on&gt;&lt;/sys_metadata_delete&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1234431753</payload_hash>
+        <record_name>NeedIt.Request type</record_name>
+        <reverted_from/>
+        <source>6d9ea7c0dbdf10100d9a47823996192a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>vichare.snehal24@gmail.com</sys_created_by>
+        <sys_created_on>2020-09-17 09:38:40</sys_created_on>
+        <sys_id>b793ecb1dbdf90100d9a47823996198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1749b6e24c00000001</sys_recorded_at>
+        <sys_updated_by>vichare.snehal24@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-09-17 09:38:40</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>3393ecb10ddf9010e82b3e276add9e8e</update_guid>
+        <update_guid_history>3393ecb10ddf9010e82b3e276add9e8e:-1234431753,ff93ecb1bedf90103a9e5ec8ebcf5989:-1701966180,3f93ecb19ddf9010ae35979f1356fe6d:736548692,f793ecb176df901049d8a73342c86a6a:833312879,adec3fa5685f9010c3f7fb4fe7b4951a:0,0decfba52e5f90100a2429498f26f016:1673447142,45ecfba5405f901011ad131d743cbf13:1429053012,41ecfba5555f9010e7244d1faae73b10:-1514400100,9a0b9ca5d8d390105493d17d7559f89c:0,b0d72fddf4139010947f6c0dbb9a44e1:0,80d7ebdd6d1390104c4a3c8df7c00cd4:1673447142,c8d7ebdd42139010879c0f0a35b88bd0:-1701966180,c4d7ebddd2139010967a9c91804f07cd:736548692,c0d7ebdd10139010542223581b473cca:833312879,4d5047cdd5d350102b4fbdee667e6b00:0,e050c3cd99d35010cf616e3ded53defa:1673447142,2c50c3cd3ed3501027ae8757aca6e9f6:-1701966180,2850c3cd94d35010f697032b323516f3:736548692,2450c3cd66d350101ce2c6e418c4cdf0:-1685267370,2050c3cd47d35010613c019e326e7eed:505521521,13d97a894fd3501087d0b781ab508e91:-239832341,187936890fd3501008b75ede73b666ca:-1468708133,66b09d89589f101056fa1748f36ccdfe:0,1db01d89f89f10103d39da8bf6faeeeb:1673447142,d1b01d892b9f10109816b4e9183b70e8:-103233526,ddb01d89759f1010e89a03b27a467de4:-854501905,d9b01d89339f1010bd766c66855fe1e1:-1866117987,d5b01d89799f1010bcc1b7d87a3e35de:1529774933,d1b01d89899f1010f94b444008e5f1db:260320262,9db01d899e9f1010afef61c50ad3edd7:-491498591,aa039c78ec131010ba5db5f9ff9c68d2:1649573361,d562d47854131010332a7e89d6b53c48:754858911</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>vichare.snehal24@gmail.com</sys_created_by>
+        <sys_created_on>2020-09-17 09:38:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>24a320f1dbdf90100d9a47823996199b</sys_id>
+        <sys_metadata>24a320f1dbdf90100d9a47823996199b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">b793ecb1dbdf90100d9a47823996198e</sys_update_version>
+        <sys_updated_by>vichare.snehal24@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-09-17 09:38:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
