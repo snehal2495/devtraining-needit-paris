@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>NeedIt</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_needit</name>
+        <number_ref display_value="NI">1e427f010fe83200cd674f8ce1050e8b</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">d24ecd84db1310100d9a478239961960</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-24 22:46:33</sys_created_on>
+        <sys_id>9b14bb08dbdf10100d9a47823996191c</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_9b14bb08dbdf10100d9a47823996191c</sys_update_name>
+        <sys_updated_by>vichare.snehal24@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-09-17 06:38:41</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9846b33ddbc57f4442b321c4059619bc</instance_id>
+        <instance_name>dev83925</instance_name>
+        <name>sys_db_object_9b14bb08dbdf10100d9a47823996191c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>NeedIt</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_needit</name><number_ref display_value="NI">1e427f010fe83200cd674f8ce1050e8b</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">d24ecd84db1310100d9a478239961960</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2017-01-24 22:46:33</sys_created_on><sys_id>9b14bb08dbdf10100d9a47823996191c</sys_id><sys_mod_count>4</sys_mod_count><sys_name>NeedIt</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_9b14bb08dbdf10100d9a47823996191c</sys_update_name><sys_updated_by>vichare.snehal24@gmail.com</sys_updated_by><sys_updated_on>2020-09-17 06:38:41</sys_updated_on><update_access>true</update_access><user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-2058787527</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>6d9ea7c0dbdf10100d9a47823996192a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>vichare.snehal24@gmail.com</sys_created_by>
+        <sys_created_on>2020-09-17 06:38:41</sys_created_on>
+        <sys_id>9f6abb25db5f90100d9a478239961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1749ac95b820000001</sys_recorded_at>
+        <sys_updated_by>vichare.snehal24@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-09-17 06:38:41</sys_updated_on>
+        <type>Table</type>
+        <update_guid>d76abb25f95f901060c6692564f50a01</update_guid>
+        <update_guid_history>d76abb25f95f901060c6692564f50a01:-2058787527,0b2ab725a45f901004d2fab34aff298a:1919895674,85f73b61ed5f9010779874bac46a73fa:187398171,1db01d89989f1010a89c9dbac84e91ca:0,e4b0d989da9f1010c034507427a96ffe:0,c475738801df1010d0f1b56677195e42:1365165188,087573883bdf1010f5dc2365387cdb2e:-507843233</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>vichare.snehal24@gmail.com</sys_created_by>
+        <sys_created_on>2020-09-18 09:03:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>06e455c2f58b47f480301ae803a3f2c4</sys_id>
+        <sys_metadata>9b14bb08dbdf10100d9a47823996191c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_db_object_9b14bb08dbdf10100d9a47823996191c</sys_update_name>
+        <sys_update_version display_value="sys_db_object_9b14bb08dbdf10100d9a47823996191c">9f6abb25db5f90100d9a478239961901</sys_update_version>
+        <sys_updated_by>vichare.snehal24@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-09-18 09:03:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
